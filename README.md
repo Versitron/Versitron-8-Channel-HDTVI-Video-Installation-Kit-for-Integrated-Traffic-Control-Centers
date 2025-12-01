@@ -1,4 +1,4 @@
-# Versitron | HD-TVI Video Fiber Integrator Support | 8-Channel HDTVI Video Installation Kit for Integrated Traffic Control Centers | Military CCTV Fiber Kits (Canada) | 4-Channel HDTVI Video Installation Kit for University-Wide Surveillance Systems
+# Versitron | HD-TVI Video Fiber Integrator Support | 8-Channel HDTVI Video Installation Kit for Integrated Traffic Control Centers | Military CCTV Fiber Kits | 4-Channel HDTVI Video Installation Kit for University-Wide Surveillance Systems
 
 Versitron provides advanced **HD-TVI video-over-fiber installation kits** designed for secure, long-distance, and mission-critical surveillance environments. Our solutions support **HD-TVI fiber integration**, **8-channel and 4-channel camera deployments**, and **military-grade CCTV applications**, ensuring reliable video transmission in traffic centers, campuses, military bases, and more.
 
