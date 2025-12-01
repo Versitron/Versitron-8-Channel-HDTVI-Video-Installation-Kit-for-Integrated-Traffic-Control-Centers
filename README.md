@@ -30,7 +30,7 @@ Ideal for traffic intersections, municipal control centers, transportation hubs,
 
 ---
 
-## Military CCTV Fiber Kits (Canada)
+## Military CCTV Fiber Kits 
 
 **Ruggedized fiber-optic video kits built for defense and high-security surveillance.**
 
